@@ -1,0 +1,5 @@
+﻿  main.cpp
+  Generating code
+  All 127 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+LINK : fatal error LNK1207: incompatible PDB format in 'D:\Marta\Documents\GRADO\2\IG\P1\p1_obligatoria_FernandezDeLaMelaSalcedoMarta\P1GLSL\Release\P1GLSL.pdb'; delete and rebuild

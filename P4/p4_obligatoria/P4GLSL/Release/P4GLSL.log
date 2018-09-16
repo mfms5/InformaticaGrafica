@@ -1,0 +1,28 @@
+﻿Build started 05/01/2016 0:45:52.
+     1>Project "C:\Users\Chor\Desktop\P4\P4\Visual2010\P4GLSL\P4GLSL.vcxproj" on node 2 (build target(s)).
+       Project file contains ToolsVersion="10.0". This toolset is unknown or missing. You may be able to resolve this by installing the appropriate .NET Framework for this toolset. Treating the project as if it had ToolsVersion="4.0".
+     1>InitializeBuildStatus:
+         Creating "Release\P4GLSL.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\libs\include\ /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt scr\main.cpp
+         main.cpp
+     1>scr\main.cpp(719): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Chor\Desktop\P4\P4\Visual2010\P4GLSL\Release\P4GLSL.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\libs\lib FreeImage.lib freeglut.lib glew32.lib opengl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\P4GLSL.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Chor\Desktop\P4\P4\Visual2010\P4GLSL\Release\P4GLSL.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Chor\Desktop\P4\P4\Visual2010\P4GLSL\Release\P4GLSL.lib" /MACHINE:X86 Release\auxiliar.obj
+         Release\main.obj
+         Generating code
+     1>c:\users\chor\desktop\p4\p4\visual2010\p4glsl\scr\main.cpp(719): warning C4700: uninitialized local variable 'xp' used
+     1>c:\users\chor\desktop\p4\p4\visual2010\p4glsl\scr\main.cpp(719): warning C4700: uninitialized local variable 'xs' used
+     1>c:\users\chor\desktop\p4\p4\visual2010\p4glsl\scr\main.cpp(798): warning C4789: destination of memory copy is too small
+         Finished generating code
+         P4GLSL.vcxproj -> C:\Users\Chor\Desktop\P4\P4\Visual2010\P4GLSL\Release\P4GLSL.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Chor\Desktop\P4\P4\Visual2010\P4GLSL\Release\P4GLSL.exe;#1" /manifest Release\P4GLSL.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\P4GLSL.unsuccessfulbuild".
+         Touching "Release\P4GLSL.lastbuildstate".
+     1>Done Building Project "C:\Users\Chor\Desktop\P4\P4\Visual2010\P4GLSL\P4GLSL.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.75

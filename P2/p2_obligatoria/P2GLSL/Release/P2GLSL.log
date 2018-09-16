@@ -1,0 +1,18 @@
+﻿Build started 01/12/2015 22:57:01.
+     1>Project "C:\Users\Marta\Documents\UNI\IG\P2\p2_obligatoria_ClaraPalomares_MartaFernandez\P2GLSL\P2GLSL.vcxproj" on node 2 (build target(s)).
+       Project file contains ToolsVersion="10.0". This toolset is unknown or missing. You may be able to resolve this by installing the appropriate .NET Framework for this toolset. Treating the project as if it had ToolsVersion="4.0".
+     1>InitializeBuildStatus:
+         Creating "Release\P2GLSL.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         P2GLSL.vcxproj -> C:\Users\Marta\Documents\UNI\IG\P2\p2_obligatoria_ClaraPalomares_MartaFernandez\P2GLSL\Release\P2GLSL.exe
+       FinalizeBuildStatus:
+         Deleting file "Release\P2GLSL.unsuccessfulbuild".
+         Touching "Release\P2GLSL.lastbuildstate".
+     1>Done Building Project "C:\Users\Marta\Documents\UNI\IG\P2\p2_obligatoria_ClaraPalomares_MartaFernandez\P2GLSL\P2GLSL.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.23

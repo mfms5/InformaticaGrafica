@@ -1,0 +1,18 @@
+﻿Build started 03/12/2015 0:09:24.
+     1>Project "C:\Users\Marta\Documents\UNI\IG\P3\p3_obligatoria_MartaFernandez_ClaraPalomares\P3GLSL\P3GLSL.vcxproj" on node 2 (build target(s)).
+       Project file contains ToolsVersion="10.0". This toolset is unknown or missing. You may be able to resolve this by installing the appropriate .NET Framework for this toolset. Treating the project as if it had ToolsVersion="4.0".
+     1>InitializeBuildStatus:
+         Creating "Release\P3GLSL.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         P3GLSL.vcxproj -> C:\Users\Marta\Documents\UNI\IG\P3\p3_obligatoria_MartaFernandez_ClaraPalomares\P3GLSL\Release\P3GLSL.exe
+       FinalizeBuildStatus:
+         Deleting file "Release\P3GLSL.unsuccessfulbuild".
+         Touching "Release\P3GLSL.lastbuildstate".
+     1>Done Building Project "C:\Users\Marta\Documents\UNI\IG\P3\p3_obligatoria_MartaFernandez_ClaraPalomares\P3GLSL\P3GLSL.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.61

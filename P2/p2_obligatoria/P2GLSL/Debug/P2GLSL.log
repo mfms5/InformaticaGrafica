@@ -1,0 +1,21 @@
+﻿Build started 05/11/2015 10:38:11.
+     1>Project "C:\Users\Marta\Desktop\P2\P2\Visual2010\P2GLSL\P2GLSL.vcxproj" on node 2 (build target(s)).
+       Project file contains ToolsVersion="10.0". This toolset is unknown or missing. You may be able to resolve this by installing the appropriate .NET Framework for this toolset. Treating the project as if it had ToolsVersion="4.0".
+     1>InitializeBuildStatus:
+         Creating "Debug\P2GLSL.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\libs\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt scr\main.cpp
+         main.cpp
+     1>c:\users\marta\desktop\p2\p2\visual2010\p2glsl\scr\main.cpp(40): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\marta\desktop\p2\p2\visual2010\p2glsl\scr\main.cpp(42): warning C4305: 'initializing' : truncation from 'double' to 'float'
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\P2GLSL.exe.embed.manifest.res" Debug\P2GLSL_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Marta\Desktop\P2\P2\Visual2010\P2GLSL\Debug\P2GLSL.exe" /INCREMENTAL /NOLOGO /LIBPATH:..\libs\lib IGlibd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\P2GLSL.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Marta\Desktop\P2\P2\Visual2010\P2GLSL\Debug\P2GLSL.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Marta\Desktop\P2\P2\Visual2010\P2GLSL\Debug\P2GLSL.lib" /MACHINE:X86 Debug\P2GLSL.exe.embed.manifest.res
+         Debug\main.obj
+     1>LINK : fatal error LNK1123: failure during conversion to COFF: file invalid or corrupt
+     1>Done Building Project "C:\Users\Marta\Desktop\P2\P2\Visual2010\P2GLSL\P2GLSL.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:04.48
