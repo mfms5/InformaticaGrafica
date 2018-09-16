@@ -5,9 +5,9 @@ Se utilizará la librería auxiliar GLUT para inicializar el contexto de OpenGL,
 
 Funciones que se implementan:
 
--Gaussian blur.
--Motion blur.
--Depth of field
+-Gaussian blur.  
+-Motion blur.  
+-Depth of field.  
 -Controlar los parámetros del Motion Blur a través de teclado. 
 <p align="center">
   <img width="40%" height="40%" src="https://raw.githubusercontent.com/mfms5/InformaticaGrafica/master/P4/capturas/motionblur1.png">
