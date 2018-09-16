@@ -10,13 +10,13 @@ Funcionalidades que se implementan:
   <img width="30%" height="30%" src="https://raw.githubusercontent.com/mfms5/InformaticaGrafica/master/P3/capturas/luzTeclado2.png">
 </p>
 
--Definer una matriz de proyección que conserve el aspect ratio cuando cambiamos el tamaño de la ventana. 
+-Definir una matriz de proyección que conserve el aspect ratio cuando cambiamos el tamaño de la ventana. 
 <p align="center">
   <img width="30%" height="30%" src="https://raw.githubusercontent.com/mfms5/InformaticaGrafica/master/P3/capturas/ar1.png">
   <img width="50%" height="50%" src="https://raw.githubusercontent.com/mfms5/InformaticaGrafica/master/P3/capturas/ar2.png">
 </p>
 
--Añadir un nuevo cubo a la escena. El segundo cubo deberá orbitar alrededor del primero describiendo una circunferencia a la vez que rota sobre su eje Y. NOTA: No tienes por que crear otro objeto. Pinta el mismo VAO con otra matriz model. 
+-Añadir un nuevo cubo a la escena. El segundo cubo deberá orbitar alrededor del primero describiendo una circunferencia a la vez que rota sobre su eje Y. 
 <p align="center">
   <img width="30%" height="30%" src="https://raw.githubusercontent.com/mfms5/InformaticaGrafica/master/P3/capturas/nuevocubo.png">
 </p>
